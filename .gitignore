@@ -1,0 +1,4 @@
+results/
+*.zip
+*.pt
+*.pth
